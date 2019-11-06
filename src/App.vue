@@ -9,6 +9,7 @@
 </template>
 
 <style>
+/*these are the default vue styles - change them*/
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
